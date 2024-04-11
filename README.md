@@ -16,3 +16,4 @@
 - git checkout -b NOME_ESCOLHIDO
 - git branch -v - lista os ultimos commits das branchs
 - git merge - junta a branch desejada com a main
+- git branch -D NOME_BRANCH - deletar branch
