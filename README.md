@@ -1,4 +1,4 @@
-##Principais Comandos: 
+## 🌐 Principais Comandos GITHUB: 
 - git clone URL NOME_ARQuivo - clonar um diretorio
 - git status - verificar o status da pasta atual
 - git restore - versão mais recente
