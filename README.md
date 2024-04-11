@@ -11,3 +11,6 @@
 - git commit --amend -m "modificando" - modificando mensagem do commit recente
 - git remote add origin URL - criando uma conexão entre o github e o git local
 - git push -u origin main - enviando para o github
+
+### Versionamento de codigo
+- git checkout -b NOME_ESCOLHIDO
