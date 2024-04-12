@@ -11,9 +11,13 @@
 - git commit --amend -m "modificando" - modificando mensagem do commit recente
 - git remote add origin URL - criando uma conexão entre o github e o git local
 - git push -u origin main - enviando para o github
+- git stash - arquuivar modificação feita
+- git checkout -b NOME - criando branch teste
+- git checkout NOME_BRANCH - entrando na Branch
+- git stash list - mostrar a mudanças arquivadas
+- git stash apply - aplicar a mudança arquivada
 
 ### Versionamento de codigo
-- git checkout -b NOME_ESCOLHIDO
 - git branch -v - lista os ultimos commits das branchs
 - git merge - junta a branch desejada com a main
 - git branch -D NOME_BRANCH - deletar branch
